@@ -16,7 +16,7 @@ public class OneThrough100 {
         
         Scanner scan = new Scanner(System.in);
          
-        System.out.print("Ingrese el tamano del columnas y filas de la matriz\n"
+        System.out.print("Ingrese el tamano del columnas y filas de la matriz \n"
                 + "recuerde que no debe de exceder una area de 101 \n");
         System.out.print("Tamano de columnas (no ingrese zero ni negativos):");
         int x= scan.nextInt();
